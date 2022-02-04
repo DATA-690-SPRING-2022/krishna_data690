@@ -1,5 +1,5 @@
 # KRISHNA SIDHVI NEKKANTI
-![Sid Pic](PXL_20201230_022451177.PORTRAIT.jpg =250x250)
+<img src="PXL_20201230_022451177.PORTRAIT.jpg" width="100" height="100">
 **Contact Details**
 - (848)228-6020
 - krishnasidhvi@gmail.com
