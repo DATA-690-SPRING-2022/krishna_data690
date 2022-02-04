@@ -30,3 +30,4 @@ I would like to see myself in a challenging Data Scientist position where I coul
 - Participated in Military Training Camp Organized by Amity University.
 ### languages Known
 - Telugu, Hindi, German.
+![Sid Pic](PXL_20201230_022451177.PORTRAIT.jpg)
