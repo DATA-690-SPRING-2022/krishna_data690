@@ -12,6 +12,8 @@ The United States of America, China, and India are the world's first, second, an
 
 With such a large population, these countries' residents have a significant demand for power. The populations of these countries have varying levels of access to electricity. Although the United States, China, and France are economically powerful, only 76.3 percent of the Indian population has access to electricity, which is rapidly approaching 100%.
 
-![pie ATE](/charts/pie ATE.png)
+![pie ATE](https://github.com/krishnasidhvi/krishna_data690/blob/main/world_development_explore/Charts/pie%20ATE.png)
+
+
 
 
